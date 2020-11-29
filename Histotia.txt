@@ -1,1 +1,1 @@
-Hola este es un archivo plano
+Este es un texto para iniciar el proyecto
